@@ -1,0 +1,15 @@
+.assistant {
+  width: 400px;
+  aspect-ratio: 1/1;
+  background-color: white;
+  border: 1em solid red;
+  border-radius: 50%;
+  box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.5);
+}
+
+#app {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

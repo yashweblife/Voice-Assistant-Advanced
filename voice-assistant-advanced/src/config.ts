@@ -1,0 +1,1 @@
+export const va_name:string = "ava" 
